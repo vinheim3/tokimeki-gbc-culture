@@ -1,0 +1,13 @@
+*.bin
+*.gbc
+*.map
+*.sav
+*.sym
+build/
+__pycache__/
+temp.s
+
+chars1.png
+chars2.png
+gfx_new.png
+shiftjis.txt
